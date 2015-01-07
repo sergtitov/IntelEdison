@@ -1,7 +1,7 @@
 {
-    "serviceUrl": "http://23.253.35.56:8081/DeviceHive/rest",
-    "accessKey": "sStsRCchw3pCUeLwyVvhX/Q27CKeJgVFcNcDBvJiB6g=",
-    "deviceId": "e50d6085",
+    "serviceUrl": "http://23.253.35.56:8082/DeviceHive/rest",
+    "accessKey": "abyBGlMVyyqPseA/4cBBQnOf3lY41khhVOM8f9j42us=",
+    "deviceId": "e50d6085-2aba-48e9-b1c3-73c673e414be",
     "deviceKey": "{00000000-0000-0000-0000-000000000000}",
     "equipments": [{
         "code": "Tag1",

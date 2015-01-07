@@ -1,0 +1,11 @@
+{
+  "name": "bridge",
+  "version": "0.0.1",
+  "dependencies": {
+    "nconf": "^0.6.9",
+    "xhr2": "^0.1.0",
+    "ws": "0.4.25",
+    "node-cassandra-cql": "0.4.4",
+    "cli-table": "0.3.0"    
+  }
+}
