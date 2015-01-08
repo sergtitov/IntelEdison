@@ -1,0 +1,7 @@
+{
+  "serviceUrl": "http://alljoyn.pgcloud.devicehive.com/DeviceHive/rest",
+  "deviceId": "AJ_gateway1",
+  "accessKey": "QlVCy3FYG+ijc7E56C8/i4sIE5j1fgUYdYCOLYSqFfA=",
+  "deviceKey": "{00000000-0000-0000-0000-000000000000}",
+  "bus":":-aykj7cE.4"
+}
